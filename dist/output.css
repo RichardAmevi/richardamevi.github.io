@@ -1,5 +1,5 @@
 /*
-! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com
+! tailwindcss v3.2.7 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -569,6 +569,11 @@ video {
 
 .gap-6 {
   gap: 1.5rem;
+}
+
+.bg-introne {
+  --tw-bg-opacity: 1;
+  background-color: hsl(217 28% 15% / var(--tw-bg-opacity));
 }
 
 .p-3 {
